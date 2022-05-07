@@ -23,8 +23,8 @@ This repo contains notes from Coursera class `Data Analysis Tools` by Westleyan 
 
 ## File Descriptions <a name="files"></a>
 
-All the analysis are combined in one single notebook. The notebook is exploratory with titles and sections to showcase work relatd to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 The data file `nesarc` and `marscrater_pds` could be downloaed from Courseara.
+The notebook is exploratory with titles and sections to showcase work relatd to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results<a name="results"></a>
 
